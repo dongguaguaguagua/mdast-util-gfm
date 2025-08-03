@@ -6,7 +6,7 @@
   ],
   "dependencies": {
     "mdast-util-from-markdown": "^2.0.0",
-    "mdast-util-gfm-autolink-literal": "^2.0.0",
+    "mdast-util-gfm-autolink-literal": "github:dongguaguaguagua/mdast-util-gfm-autolink-literal",
     "mdast-util-gfm-footnote": "^2.0.0",
     "mdast-util-gfm-strikethrough": "^2.0.0",
     "mdast-util-gfm-table": "^2.0.0",
